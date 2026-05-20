@@ -19,4 +19,4 @@ para entregar resultados consistentes no ecossistema de tecnologia.
 
 ### 📬 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/debora-maestrini/)
-- [E-mail](mailto:seu-email@exemplo.com) *(Opcional: adicione seu e-mail de contato profissional)*
+- [E-mail](demboone@gmail.com) 
