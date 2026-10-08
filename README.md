@@ -7,10 +7,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** focada em **Desenv
 
 ### 🌐 Destaque Visual / Front-End em Ação
 
-<!-- Esta imagem animada roda automaticamente assim que o recrutador entra no seu perfil -->
-<p center">
-  <img src="https://raw.githubusercontent.com/demboone-sudo/SEU_REPOSITORIO/main/demonstracao.gif" alt="Animação Maestrini Front-End" width="100%">
-</p>
 
 <p align="center">
   <a href="https://demboone-sudo.github.io/SEU_REPOSITORIO" target="_blank">
