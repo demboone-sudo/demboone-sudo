@@ -5,16 +5,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** focada em **Desenv
 
 ---
 
-### 🌐 Destaque Visual / Front-End em Ação
-
-
-<p align="center">
-  <a href="https://demboone-sudo.github.io/SEU_REPOSITORIO" target="_blank">
-    👉 <b>Clique aqui para ver a demonstração interativa ao vivo (GitHub Pages)</b>
-  </a>
-</p>
-
----
 
 ### 🎨 Front-End & Interfaces
 - **Desenvolvimento Web:** HTML5, CSS3 (Animações 3D, Flexbox, Grid, Blend Modes)
