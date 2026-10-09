@@ -4,6 +4,7 @@
 
   <p><b>Desenvolvedora Front-End & Criativa | Estudante de Análise e Desenvolvimento de Sistemas</b></p>
   <p><i>"Unindo a precisão da estrutura visual à magia das animações e interações digitais."</i></p>
+</div>
 
 <!-- GIF do T-Rex Dino (Centralizado) -->
 <br />
@@ -13,13 +14,12 @@
 <br />
 
 ---
-<div align="center">
 ### 💫 Sobre Mim
 
 - 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** (Estácio).
 - 🎨 Apaixonada pela **criatividade do Front-End**: interfaces dinâmicas, animações fluidas, design de experiência e layout responsivo.
 - ⚙️ Desenvolvendo habilidades no **Back-End (Python & Bancos de Dados)** rumo à formação Full-Stack.
-</div>
+
 
 ### 🛠️ Minhas Tecnologias & Ferramentas
 
