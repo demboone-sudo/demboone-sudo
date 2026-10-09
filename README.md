@@ -6,7 +6,7 @@
   <p><i>"Unindo a precisão da estrutura visual à magia das animações e interações digitais."</i></p>
 
 
-  <img src="./collabocats.gif" alt="Collabocats Animado" width="350px" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/demboone-sudo/demboone-sudo/main/.github/collabocats.gif" alt="Collabocats Animado" width="350px" style="border-radius: 12px;" />
 
 </div>
 
