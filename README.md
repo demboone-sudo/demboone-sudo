@@ -5,23 +5,21 @@
   <p><b>Desenvolvedora Front-End & Criativa | Estudante de Análise e Desenvolvimento de Sistemas</b></p>
   <p><i>"Unindo a precisão da estrutura visual à magia das animações e interações digitais."</i></p>
 
-  <!-- GIF do T-Rex Dino (Cole o link que o GitHub gerou dentro das aspas do src) -->
-  <br />
-  </div><img width="280" height="232" alt="giphy" src="https://github.com/user-attachments/assets/c702ad91-a752-45a8-9181-3e0333f6fcfa" />
-
+<!-- GIF do T-Rex Dino (Centralizado) -->
+<br />
+<div align="center">
+  <img width="280" alt="giphy" src="https://github.com/user-attachments/assets/c702ad91-a752-45a8-9181-3e0333f6fcfa" />
 </div>
-
 <br />
 
 ---
-
+<div align="center">
 ### 💫 Sobre Mim
 
 - 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas** (Estácio).
 - 🎨 Apaixonada pela **criatividade do Front-End**: interfaces dinâmicas, animações fluidas, design de experiência e layout responsivo.
 - ⚙️ Desenvolvendo habilidades no **Back-End (Python & Bancos de Dados)** rumo à formação Full-Stack.
-
----
+</div>
 
 ### 🛠️ Minhas Tecnologias & Ferramentas
 
