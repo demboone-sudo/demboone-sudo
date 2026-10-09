@@ -5,13 +5,9 @@
   <p><b>Desenvolvedora Front-End & Criativa | Estudante de Análise e Desenvolvimento de Sistemas</b></p>
   <p><i>"Unindo a precisão da estrutura visual à magia das animações e interações digitais."</i></p>
 
-  <!-- Badges das Redes Sociais e Contato -->
-  <a href="https://https://www.linkedin.com/in/debora-maestrini/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:demboone@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+  <img src="./collabocats.gif" alt="Collabocats Animado" width="350px" style="border-radius: 12px;" />
+
 </div>
 
 <br />
