@@ -54,4 +54,4 @@
 
 ### 📬 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/debora-maestrini/)
-- [E-mail](demboone@gmail.com) 
+- [Envie-me um e-mail](mailto:demboone@gmail.com)
