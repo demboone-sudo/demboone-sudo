@@ -42,8 +42,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demboone-sudo&show_icons=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demboone-sudo&layout=compact&theme=dracula&locale=pt-br" alt="Linguagens mais usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=demboone-sudo&show_icons=true&theme=dracula&locale=pt-br&cache_bust=1" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=demboone-sudo&layout=compact&theme=dracula&locale=pt-br&cache_bust=1" alt="Linguagens mais usadas" height="150" />
 </div>
 
 ---
